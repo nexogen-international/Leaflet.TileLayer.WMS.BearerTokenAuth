@@ -1,0 +1,19 @@
+{
+  "name": "@nexogen-international/leaflet.tilelayer.wms.bearertokenauth",
+  "version": "1.0.0",
+  "description": "Monkey patch Leaflet.TileLayer.WMS to support authentication with bearer token.",
+  "main": "Leaflet.TileLayer.WMS.BearerTokenAuth.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nexogen-international/Leaflet.TileLayer.WMS.BearerTokenAuth.git"
+  },
+  "author": "Nexogen Kft.",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nexogen-international/Leaflet.TileLayer.WMS.BearerTokenAuth/issues"
+  },
+  "homepage": "https://github.com/nexogen-international/Leaflet.TileLayer.WMS.BearerTokenAuth#readme"
+}
